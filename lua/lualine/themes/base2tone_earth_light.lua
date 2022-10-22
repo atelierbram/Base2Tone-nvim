@@ -3,10 +3,42 @@
 -- Credit: Zoltan Dalmadi(lightline)
 -- LuaFormatter off
 local colors = {
+B2T_A0 =  "#322d29",
+B2T_A1 =  "#3f3a37",
+B2T_A2 =  "#5b534d",
+B2T_A3 =  "#6a5f58",
+B2T_A4 =  "#796b63",
+B2T_A5 =  "#a3948a",
+B2T_A6 =  "#b5a9a1",
+B2T_A7 =  "#c7beb8",
 
-Warning: include_once(../../schemes/lualine/vars-hex-b2t_earth.lua.php): failed to open stream: No such file or directory in /Users/bram/Sites/bitbucket/base2tone-nvim/db/views/lualine/b2t_earth_light.lua.php on line 11
+B2T_B0 =  "#6f5849",
+B2T_B1 =  "#786254",
+B2T_B2 =  "#816d5f",
+B2T_B3 =  "#88786d",
+B2T_B4 =  "#967e6e",
+B2T_B5 =  "#a48774",
+B2T_B6 =  "#dfb99f",
+B2T_B7 =  "#fff3eb",
 
-Warning: include_once(): Failed opening '../../schemes/lualine/vars-hex-b2t_earth.lua.php' for inclusion (include_path='.:pear/share/pear:/usr/local/Cellar/php@7.4/7.4.30/share/pear') in /Users/bram/Sites/bitbucket/base2tone-nvim/db/views/lualine/b2t_earth_light.lua.php on line 11
+B2T_C0 =  "#736d5e",
+B2T_C1 =  "#88806d",
+B2T_C2 =  "#9a927e",
+B2T_C3 =  "#aaa392",
+B2T_C4 =  "#bbb4a5",
+B2T_C5 =  "#cfc9b9",
+B2T_C6 =  "#e2dcd0",
+B2T_C7 =  "#f2efe8",
+
+B2T_D0 =  "#9c8349",
+B2T_D1 =  "#b3944d",
+B2T_D2 =  "#bfa05a",
+B2T_D3 =  "#cda956",
+B2T_D4 =  "#d9b154",
+B2T_D5 =  "#e6b84d",
+B2T_D6 =  "#f1be46",
+B2T_D7 =  "#fcc440",
+
 }
 
 -- LuaFormatter on
