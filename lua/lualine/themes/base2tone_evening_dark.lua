@@ -45,7 +45,7 @@ return {
   normal = {
     a = { fg = colors.B2T_A1, bg = colors.B2T_B2, gui = "bold" },
     b = { fg = colors.B2T_B2, bg = colors.B2T_A0 },
-    c = { fg = colors.B2T_A3, bg = colors.B2T_A1 },
+    c = { fg = colors.B2T_A4, bg = colors.B2T_A1 },
   },
   insert = { a = { fg = colors.B2T_A1, bg = colors.B2T_D2, gui = "bold" } },
   visual = { a = { fg = colors.B2T_A1, bg = colors.B2T_C2, gui = "bold" } },
