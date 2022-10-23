@@ -44,14 +44,14 @@ B2T_D7 =  "#47ebb4",
 -- LuaFormatter on
 return {
   normal = {
-    a = { fg = colors.B2T_A1, bg = colors.B2T_B2, gui = "bold" },
-    b = { fg = colors.B2T_B2, bg = colors.B2T_A0 },
-    c = { fg = colors.B2T_A3, bg = colors.B2T_A1 },
+    a = { fg = colors.B2T_A0, bg = colors.B2T_B4, gui = "bold" },
+    b = { fg = colors.B2T_B4, bg = colors.B2T_A0 },
+    c = { fg = colors.B2T_A4, bg = colors.B2T_A1 },
   },
-  insert = { a = { fg = colors.B2T_A1, bg = colors.B2T_D2, gui = "bold" } },
-  visual = { a = { fg = colors.B2T_A1, bg = colors.B2T_C2, gui = "bold" } },
-  command = { a = { fg = colors.B2T_A1, bg = colors.B2T_B1, gui = "bold" } },
-  replace = { a = { fg = colors.B2T_A1, bg = colors.B2T_A6, gui = "bold" } },
+  insert = { a = { fg = colors.B2T_A0, bg = colors.B2T_D3, gui = "bold" } },
+  visual = { a = { fg = colors.B2T_A0, bg = colors.B2T_C2, gui = "bold" } },
+  command = { a = { fg = colors.B2T_A0, bg = colors.B2T_B3, gui = "bold" } },
+  replace = { a = { fg = colors.B2T_A0, bg = colors.B2T_A6, gui = "bold" } },
   inactive = {
     a = { fg = colors.B2T_A2, bg = colors.B2T_A4, gui = "bold" },
     b = { fg = colors.B2T_A4, bg = colors.B2T_A1 },

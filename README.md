@@ -1,3 +1,3 @@
 # Base2Tone-nvim
 
-Work in progress
+Collection of duotone colorschemes for Neovim written in lua.
