@@ -8,8 +8,8 @@ theme.set_highlights = function()
 
   -- base
   hl(0, "Normal", { fg = c.B2T_D2, bg = c.B2T_C7,  })
-  hl(0, "NormalNC", { fg = c.B2T_D3, bg = c.B2T_D7,  })
-  hl(0, "NormalSB", { fg = c.B2T_D3, bg = c.B2T_D7,  })
+  hl(0, "NormalNC", { fg = c.B2T_D3, bg = c.B2T_C6,  })
+  hl(0, "NormalSB", { fg = c.B2T_D3, bg = c.B2T_C6,  })
   hl(0, "NormalFloat", { fg = c.B2T_C0, bg = c.B2T_C7,  })
   hl(0, "Bold", { fg = 'NONE', bg = 'NONE', bold=true, })
   hl(0, "Italic", { fg = 'NONE', bg = 'NONE', italic=true, })
