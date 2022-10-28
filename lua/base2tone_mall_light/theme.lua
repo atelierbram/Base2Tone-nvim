@@ -400,12 +400,12 @@ theme.set_highlights = function()
   hl(0, "WhichKeyFloat", { fg = 'NONE', bg = c.B2T_A7 })
 
   -- Git
-  hl(0, "SignAdd", { fg = c.B2T_B0, bg = 'NONE' })
-  hl(0, "SignChange", { fg = c.B2T_C7, bg = 'NONE' })
-  hl(0, "SignDelete", { fg = c.B2T_D7, bg = 'NONE' })
-  hl(0, "GitSignsAdd", { fg = c.B2T_B7, bg = 'NONE' })
-  hl(0, "GitSignsChange", { fg = c.B2T_C7, bg = 'NONE' })
-  hl(0, "GitSignsDelete", { fg = c.B2T_D7, bg = 'NONE' })
+  hl(0, "SignAdd", { fg = c.B2T_B1, bg = c.B2T_C6 })
+  hl(0, "SignChange", { fg = c.B2T_C1, bg = c.B2T_C6 })
+  hl(0, "SignDelete", { fg = c.B2T_D1, bg = c.B2T_C6 })
+  hl(0, "GitSignsAdd", { fg = c.B2T_B1, bg = c.B2T_C6 })
+  hl(0, "GitSignsChange", { fg = c.B2T_C1, bg = c.B2T_C6 })
+  hl(0, "GitSignsDelete", { fg = c.B2T_D1, bg = c.B2T_C6 })
 
   -- Navic
   hl(0, "NavicIconsFile", { fg = c.B2T_B3, bg = 'NONE' })
