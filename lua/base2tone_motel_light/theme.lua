@@ -401,10 +401,10 @@ theme.set_highlights = function()
 
   -- Git
   hl(0, "SignAdd", { fg = c.B2T_B0, bg = 'NONE' })
-  hl(0, "SignChange", { fg = c.B2T_D7, bg = 'NONE' })
+  hl(0, "SignChange", { fg = c.B2T_C7, bg = 'NONE' })
   hl(0, "SignDelete", { fg = c.B2T_D7, bg = 'NONE' })
   hl(0, "GitSignsAdd", { fg = c.B2T_B7, bg = 'NONE' })
-  hl(0, "GitSignsChange", { fg = c.B2T_D7, bg = 'NONE' })
+  hl(0, "GitSignsChange", { fg = c.B2T_C7, bg = 'NONE' })
   hl(0, "GitSignsDelete", { fg = c.B2T_D7, bg = 'NONE' })
 
   -- Navic

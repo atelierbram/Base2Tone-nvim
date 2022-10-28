@@ -39,7 +39,7 @@ theme.set_highlights = function()
   hl(0, "SignColumn", { fg = c.B2T_C4, bg = c.B2T_C6 })
   hl(0, "SignColumnSB", { fg = c.B2T_C4, bg = c.B2T_C6 })
   hl(0, "Substitute", { fg = c.B2T_A1, bg = c.B2T_B5,  })
-  hl(0, "LineNr", { fg = c.B2T_C3, bg = c.B2T_C6 })
+  hl(0, "LineNr", { fg = c.B2T_C5, bg = c.B2T_C7 })
   hl(0, "CursorLineNr", { fg = c.B2T_C0, bg = c.B2T_C6 })
   hl(0, "MatchParen", { fg = c.B2T_B2, bg = c.B2T_C5 })
   hl(0, "ModeMsg", { fg = c.B2T_C0, bg = 'NONE' })
@@ -400,10 +400,10 @@ theme.set_highlights = function()
 
   -- Git
   hl(0, "SignAdd", { fg = c.B2T_B0, bg = 'NONE' })
-  hl(0, "SignChange", { fg = c.B2T_D7, bg = 'NONE' })
+  hl(0, "SignChange", { fg = c.B2T_C7, bg = 'NONE' })
   hl(0, "SignDelete", { fg = c.B2T_D7, bg = 'NONE' })
   hl(0, "GitSignsAdd", { fg = c.B2T_B7, bg = 'NONE' })
-  hl(0, "GitSignsChange", { fg = c.B2T_D7, bg = 'NONE' })
+  hl(0, "GitSignsChange", { fg = c.B2T_C7, bg = 'NONE' })
   hl(0, "GitSignsDelete", { fg = c.B2T_D7, bg = 'NONE' })
 
   -- Navic
