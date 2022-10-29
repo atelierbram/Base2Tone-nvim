@@ -6,7 +6,7 @@ Collection of duotone colorschemes for Neovim written in lua.
 
 > “DuoTone themes use only 2 hues (7 shades in total). It tones down less important parts (like punctuation and brackets) and highlights only the important ones. This leads to a more calm color scheme, but still lets you find the stuff you're looking for.”
 
-Base2Tone-nvim is adapted alongside Treesitter. It supports quite a few popular plugins for Neovim like Lualine, Telescope, Nvim-Tree, IndentBlankline and GitSigns.
+Base2Tone-nvim is adapted alongside Treesitter. It supports quite a few popular plugins for Neovim like Lualine, Telescope, Nvim-Tree, IndentBlankline, GitSigns and [Marks](https://github.com/chentoast/marks.nvim).
 
 For the most seamless experience within the terminal: these same color schemes are also ported to [iTerm2](https://github.com/atelierbram/Base2Tone-iterm2) and [Hyper](https://github.com/atelierbram/Base2Tone-hyperterm). For terminals which don’t support truecolor please use [Base2Tone-vim](https://github.com/atelierbram/Base2Tone-vim) instead.
 
