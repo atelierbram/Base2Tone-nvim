@@ -438,7 +438,7 @@ theme.set_highlights = function()
   hl(0, "NavicSeparator", { fg = c.B2T_A2, bg = 'NONE' })
 
   -- IndentBlankline
-  hl(0, "IndentBlanklineContextChar", { fg = c.B2T_A1, bg = 'NONE',  })
+  hl(0, "IndentBlanklineContextChar", { fg = c.B2T_C0, bg = 'NONE',  })
   hl(0, "IndentBlanklineChar", { fg = c.B2T_A1, bg = 'NONE',  })
 
   -- NvimTree
